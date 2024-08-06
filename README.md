@@ -24,5 +24,5 @@ Ascendant Forge is a versatile and comprehensive game engine written in Rust, de
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/ascendant_forge.git
-   cd ascendant_forge
+   git clone https://github.com/kultrol/ascendant_forge_game_engine.git
+   cd ascendant_forge_game_engine
